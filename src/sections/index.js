@@ -1,0 +1,6 @@
+export { default as NavBar } from './navbar'
+export { default as About } from './about'
+export { default as Portfolio } from './portfolio'
+export { default as Vault } from './vault'
+export { default as Blog } from './blog'
+export { default as Footer } from './footer'
